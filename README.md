@@ -46,6 +46,6 @@
 - 不含原著小说核心剧情与人物
 - 导入任意支持知识库的AI即可运行
 
-👉 下载地址：`01_免费体验世界_沉璧屿市井篇/`
+👉 下载地址：`[Chenbi_Isle_Official](https://github.com/Ass6699R/world-file-standard/tree/main/Chenbi_Isle_Official)`
 
 📖 原著小说《辜芳梦》正在创作中，敬请关注后续更新。
